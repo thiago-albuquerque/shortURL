@@ -6,7 +6,7 @@ Nele o usuário cola ou digita uma URL e um nome e em seguida gera uma outra URL
 ## Tecnologias utilizadas:
 
 - Javascript
-- Styled Component
+- Styled Components
 - React Native
 - Hook
 - Clipboard
